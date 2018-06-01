@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+.head {
+  background-image: url("C:/Users/gnomm/Desktop/Code Cademy Projects/Broadway/resources/images/the-flatiron-building.png");
+  background-size: cover;
+}

@@ -8,7 +8,41 @@ h1 {
   color: white;
 }
 
-.head {
-  background-image: url("C:/Users/gnomm/Desktop/Code Cademy Projects/Broadway/resources/images/the-flatiron-building.png");
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2.ny {
+  color: white;
+  background-image: url("../../resources/images/the-flatiron-building.png");
   background-size: cover;
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a
+{
+  font-size: 18px;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.head {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
 }
